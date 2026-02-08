@@ -289,3 +289,5 @@ Before running EchoBot:
 - Make sure Docker is installed
 - Copy `.example.env` to `.env`
 - Fill required API keys
+- ### Contributor Wallets
+- GitHub: [uche365] | SOL: [D9w5raWEpJWT6vvfsxfJqsChqjtFgrH5RvNLa9xmwKDx]
